@@ -1,5 +1,6 @@
 <h1>A very warm welcome to my Digital Home</h1>
 
+![](https://github.com/Brandnewson/assets/githubbanner.png)
 
 <img src = 'https://user-images.githubusercontent.com/63832502/185027354-7dd46f06-e708-4eb3-bc16-06791435fee1.gif' width="200px" height="200px" alt = 'Cozy Campfire' align='right'/>
 
