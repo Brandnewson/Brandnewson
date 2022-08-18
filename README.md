@@ -1,25 +1,39 @@
+<h1> Welcome to my Digital Home! </h1>
+
 <img src="assets/githubbanner.png" alt="Banner that greets incoming guests">
-<img src = 'https://user-images.githubusercontent.com/63832502/185027354-7dd46f06-e708-4eb3-bc16-06791435fee1.gif' width="200px" height="200px" alt = 'Cozy Campfire' align='right'/>
-<h1> A bit about myself </h1>
-<h3> Aspirations </h3> 
 
-- Work in NYC
-- Develop Software that positively impacts others
-- Start my own Startup
+<img src = 'https://user-images.githubusercontent.com/63832502/185421926-ce7409e7-6271-47d5-9b25-420d1e700304.gif' width="480px" height="270px" alt = 'Cozy House' align='right'/>
 
-<h3>Highlights: </h3>
+<h2>Documentation for Branson </h2>
+<h3> What's new for Branson 2.0 </h3>
 
-- Started **Singapore's FIRST Group-focused itinerary generator**: Incubated under **Japanese MNC's Corporate Incubator** Program
-- **Mentored by Venture Capitalist Firm TRIVE**: [Check out what I learnt](https://medium.com/@bransontay/lessons-i-learnt-from-a-vc-on-how-to-build-great-businesses-6ff771a86f3b)
-- **Partnership Intern** in Indonesia's **Largest Co-Working Space Company, CoHive**
-- Started **3 E-commerce Ventures**: Products shown in GIFs below
+- :bar_chart:Working on a **Company Analyser Web App** utilising the **MERN** Framework & **NodeJS**.
+- 🌱Currently Pursuing a Bachelors in Computer Science in the University of Leeds.
 
+<h3> Additional Modules for Branson 2.0 </h3>
+
+- Talk to me about 🏎️Formula 1, :red_car:Cars, 💡Startups!
+- Likes: :movie_camera:Movies, :book:Books, :bento:Cooking
+
+<h2>Highlights: </h2>
+
+- :airplane:Started **Singapore's FIRST Group-focused itinerary generator**: Incubated under **Japanese MNC's Corporate Incubator** Program
+- :moneybag:**Mentored by Venture Capitalist Firm TRIVE**: [Check out what I learnt](https://medium.com/@bransontay/lessons-i-learnt-from-a-vc-on-how-to-build-great-businesses-6ff771a86f3b)
+- :office:**Partnership Intern** in Indonesia's **Largest Co-Working Space Company, CoHive**
+- :stars:Started **3 E-commerce Ventures**: Products shown in GIFs below
+
+<p align="center">
 <img src="assets/aquaaway.gif" alt="hydrophobic product called aquaaway" width="200px" height="200px"> <img src="assets/ducky.gif" alt="LED display bag called bytebags" width="200px" height="200px"> <img src="assets/universal.jpg" alt="aluminium mousepad called Zima Mousepads" width="200px" height="200px">
+</p>
 
+<h2> Aspirations: </h2> 
 
+- :statue_of_liberty:Work in NYC
+- :relaxed:Develop Software that positively impacts others
+- :rocket:Start my own Startup
 
-<h3>Technologies & Languages</h3>
-
+<h2>Technologies & Languages I use</h2>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Brandnewson&layout=compact">
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
