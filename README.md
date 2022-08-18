@@ -1,9 +1,6 @@
-<h1>A very warm welcome to my Digital Home</h1>
-
+<img src="assets/githubbanner.png" alt="Banner that greets incoming guests">
 <img src = 'https://user-images.githubusercontent.com/63832502/185027354-7dd46f06-e708-4eb3-bc16-06791435fee1.gif' width="200px" height="200px" alt = 'Cozy Campfire' align='right'/>
-
-<h2> A bit about myself </h2>
-
+<h1> A bit about myself </h1>
 <h3> Aspirations </h3> 
 
 - Work in NYC
@@ -16,6 +13,10 @@
 - **Mentored by Venture Capitalist Firm TRIVE**: [Check out what I learnt](https://medium.com/@bransontay/lessons-i-learnt-from-a-vc-on-how-to-build-great-businesses-6ff771a86f3b)
 - **Partnership Intern** in Indonesia's **Largest Co-Working Space Company, CoHive**
 - Started **3 E-commerce Ventures**: Products shown in GIFs below
+
+<img src="assets/aquaaway.gif" alt="hydrophobic product called aquaaway" width="200px" height="200px"> <img src="assets/ducky.gif" alt="LED display bag called bytebags" width="200px" height="200px"> <img src="assets/universal.jpg" alt="aluminium mousepad called Zima Mousepads" width="200px" height="200px">
+
+
 
 <h3>Technologies & Languages</h3>
 
