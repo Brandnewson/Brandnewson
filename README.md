@@ -28,7 +28,7 @@
 
 <h2> Aspirations: </h2> 
 
-- :statue_of_liberty:Work in NYC
+- :racing_car:Work in Formula One
 - :relaxed:Develop Software that positively impacts others
 - :rocket:Start my own Startup
 
