@@ -2,8 +2,6 @@
 
 <img src="assets/githubbanner.png" alt="Banner that greets incoming guests">
 
-<img src = 'https://user-images.githubusercontent.com/63832502/185421926-ce7409e7-6271-47d5-9b25-420d1e700304.gif' width="480px" height="270px" alt = 'Cozy House' align='right'/>
-
 <h2> Documentation for Branson </h2>
 <h3> What's new for Branson 2.0 </h3>
 
