@@ -4,10 +4,10 @@
 
 <img src = 'https://user-images.githubusercontent.com/63832502/185421926-ce7409e7-6271-47d5-9b25-420d1e700304.gif' width="480px" height="270px" alt = 'Cozy House' align='right'/>
 
-<h2>Documentation for Branson </h2>
+<h2> Documentation for Branson </h2>
 <h3> What's new for Branson 2.0 </h3>
 
-- :bar_chart:Working on a **Company Analyser Web App** utilising the **MERN** Framework & **NodeJS**.
+- :bar_chart:Working on a **Stock Market Business Analyser Web App** utilising the **MERN** Framework & **NodeJS**.
 - 🌱Currently Pursuing a Bachelors in Computer Science in the University of Leeds.
 
 <h3> Additional Modules for Branson 2.0 </h3>
