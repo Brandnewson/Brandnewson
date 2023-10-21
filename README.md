@@ -26,9 +26,9 @@
 
 <h2> Aspirations: </h2> 
 
-- :racing_car:Work in Formula One
-- :relaxed:Develop Software that positively impacts others
-- :rocket:Start my own Startup
+- :racing_car: Work as a Software Engineer in Formula One
+- :relaxed: Develop Software that puts a smile on others
+- :rocket: In the long run, launch my own Automobile Design Firm
 
 <h2>Technologies & Languages I use</h2>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Brandnewson&layout=compact">
