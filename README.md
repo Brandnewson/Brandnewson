@@ -6,7 +6,8 @@
 <h3> What's new for Branson 2.0 </h3>
 
 - :bar_chart:Working on a **Stock Market Business Analyser Web App** utilising the **MERN** Framework & **NodeJS**.
-- 🌱Currently Pursuing a Bachelors in Computer Science in the University of Leeds.
+- :battery:Emulating extra temperature sensors on **Battery Management System** utilsing **CAN bus protocol**
+- 🌱Currently Pursuing a **Bachelors in Computer Science** in the University of Leeds.
 
 <h3> Additional Modules for Branson 2.0 </h3>
 
