@@ -53,7 +53,7 @@
 
 <h3>Where to find me (Click me!)</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/peterthehan"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a>
+  <a href="https://www.linkedin.com/in/bransontay"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a>
   <a href="https://discord.gg/WjEFnzC"><img alt="Discord" title="Discord" height="48" width="48" src="assets/discord.svg"></a>
 </p>
 
