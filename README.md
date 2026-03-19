@@ -28,13 +28,18 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LGRSimulations&repo=LGR_FullTrackQSLapTimeSim&theme=dark" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/Brandnewson/CV_crawl">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brandnewson&repo=CV_crawl&theme=dark" />
+  </a>
+</p>
 
 ---
 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab,rust,typescript,react,fastapi,postgresql,azure,git&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,matlab,rust,java,cpp,c,ts,html,css,react,nodejs,flask,fastapi,bootstrap,mongodb,mysql,aws,azure,docker&theme=dark&perline=7" />
 </p>
 
 ---
@@ -42,7 +47,6 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brandnewson&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brandnewson&layout=compact&theme=dark&hide_border=true" height="160" />
 </p>
 
