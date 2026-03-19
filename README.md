@@ -24,6 +24,9 @@
   <a href="https://github.com/Brandnewson/LGR_2D_CFD">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brandnewson&repo=LGR_2D_CFD&theme=dark" />
   </a>
+  <a href="https://github.com/LGRSimulations/LGR_FullTrackQSLapTimeSim">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LGRSimulations&repo=LGR_FullTrackQSLapTimeSim&theme=dark" />
+  </a>
 </p>
 
 ---
