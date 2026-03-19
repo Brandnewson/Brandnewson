@@ -1,63 +1,60 @@
-<h1> Welcome to my Digital Home! </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E10600&center=true&vCenter=true&width=600&lines=Software+Eng+%40+Jaguar+TCS+Racing+Formula+E;Final+Year+CS+%40+University+of+Leeds;Building+for+F1" alt="Typing SVG" />
+</p>
 
-<img src="assets/githubbanner.png" alt="Banner that greets incoming guests">
+---
 
-<h2> Documentation for Branson </h2>
-<h3> What's new for Branson 2.0 </h3>
+- 🏎️ **Software & Strategy Engineer** — Jaguar TCS Racing (Formula E Season 11)
+- 🎓 **Final Year Computer Science** — University of Leeds
+- 🤖 Building agentic AI + motorsport simulation tools
 
-- :bar_chart:Working on a **Stock Market Business Analyser Web App** utilising the **MERN** Framework & **NodeJS**.
-- :battery:Emulating extra temperature sensors on **Battery Management System** utilsing **CAN bus protocol**
-- 🌱Currently Pursuing a **Bachelors in Computer Science** in the University of Leeds.
+---
 
-<h3> Additional Modules for Branson 2.0 </h3>
-
-- Talk to me about 🏎️Formula 1, :red_car:Cars, 💡Startups!
-- Likes: :movie_camera:Movies, :book:Books, :bento:Cooking
-
-<h2>Highlights: </h2>
-
-- :airplane:Started **Singapore's FIRST Group-focused itinerary generator**: Incubated under **Japanese MNC's Corporate Incubator** Program
-- :moneybag:**Mentored by Venture Capitalist Firm TRIVE**: [Check out what I learnt](https://medium.com/@bransontay/lessons-i-learnt-from-a-vc-on-how-to-build-great-businesses-6ff771a86f3b)
-- :office:**Partnership Intern** in Indonesia's **Largest Co-Working Space Company, CoHive**
-- :stars:Started **3 E-commerce Ventures**: Products shown in GIFs below
+### Featured Projects
 
 <p align="center">
-<img src="assets/aquaaway.gif" alt="hydrophobic product called aquaaway" width="200px" height="200px"> <img src="assets/ducky.gif" alt="LED display bag called bytebags" width="200px" height="200px"> <img src="assets/universal.jpg" alt="aluminium mousepad called Zima Mousepads" width="200px" height="200px">
+  <a href="https://github.com/Brandnewson/F1_StrategySimulator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brandnewson&repo=F1_StrategySimulator&theme=dark" />
+  </a>
+  <a href="https://github.com/Brandnewson/aerodynamic_RAG__analyser">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brandnewson&repo=aerodynamic_RAG__analyser&theme=dark" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Brandnewson/LGR_2D_CFD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brandnewson&repo=LGR_2D_CFD&theme=dark" />
+  </a>
 </p>
 
-<h2> Aspirations: </h2> 
+---
 
-- :racing_car: Work as a Software Engineer in Formula One
-- :relaxed: Develop Software that puts a smile on others
-- :rocket: In the long run, launch my own Automobile Design Firm
+### Tech Stack
 
-<h2>Technologies & Languages I use</h2>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Brandnewson&layout=compact">
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-
-<h3>Where to find me (Click me!)</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/bransontay"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a>
-  <a href="https://discord.gg/WjEFnzC"><img alt="Discord" title="Discord" height="48" width="48" src="assets/discord.svg"></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,matlab,rust,typescript,react,fastapi,postgresql,azure,git&theme=dark&perline=6" />
 </p>
 
+---
 
+### GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brandnewson&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brandnewson&layout=compact&theme=dark&hide_border=true" height="160" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Brandnewson&theme=dark&hide_border=true" />
+</p>
 
+---
+
+### Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/bransontay">
+    <img src="https://img.shields.io/badge/LinkedIn-Branson%20Tay-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Brandnewson&color=E10600&style=flat" />
+</p>
